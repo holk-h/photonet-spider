@@ -8,5 +8,5 @@ A multiprocessing spider for Algorithmic Inferencing of Aesthetics and Emotion i
 
 All you need is to change the variable `save_path` in the file ***spider.py***  and run `python3 spider.py`.
 
-#参考论文(Reference)：
+# 参考论文(Reference)：
 `R. Datta, J. Li, and J. Z. Wang, Algorithmic Inferencing of Aesthetics and Emotion in Natural Images: An Exposition, Proc. IEEE ICIP, Special Session on Image Aesthetics, Mood and Emotion, San Diego, CA, 2008`
