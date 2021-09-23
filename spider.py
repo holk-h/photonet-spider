@@ -4,7 +4,7 @@ import requests
 import os
 import multiprocessing
 
-save_path = 'C:\\Users\\holk\\IdeaProjects\\photonet-spider\\images\\'
+save_path = ''
 dataset = 'photonet_dataset.txt'
 f = open(dataset)
 
